@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs_2022\\Cpp_code\\Date\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC34594-62B6-41DD-8654-37A6A2929693}|Date\\Date.vcxproj|D:\\vs_2022\\Cpp_code\\Date\\Date\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BC34594-62B6-41DD-8654-37A6A2929693}|Date\\Date.vcxproj|solutionrelative:Date\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC34594-62B6-41DD-8654-37A6A2929693}|Date\\Date.vcxproj|D:\\vs_2022\\Cpp_code\\Date\\Date\\Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BC34594-62B6-41DD-8654-37A6A2929693}|Date\\Date.vcxproj|solutionrelative:Date\\Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC34594-62B6-41DD-8654-37A6A2929693}|Date\\Date.vcxproj|D:\\vs_2022\\Cpp_code\\Date\\Date\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BC34594-62B6-41DD-8654-37A6A2929693}|Date\\Date.vcxproj|solutionrelative:Date\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 931,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\vs_2022\\Cpp_code\\Date\\Date\\test.cpp",
+              "RelativeDocumentMoniker": "Date\\test.cpp",
+              "ToolTip": "D:\\vs_2022\\Cpp_code\\Date\\Date\\test.cpp",
+              "RelativeToolTip": "Date\\test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T11:49:05.03Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Date.cpp",
+              "DocumentMoniker": "D:\\vs_2022\\Cpp_code\\Date\\Date\\Date.cpp",
+              "RelativeDocumentMoniker": "Date\\Date.cpp",
+              "ToolTip": "D:\\vs_2022\\Cpp_code\\Date\\Date\\Date.cpp",
+              "RelativeToolTip": "Date\\Date.cpp",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAANgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T10:16:42.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Date.h",
+              "DocumentMoniker": "D:\\vs_2022\\Cpp_code\\Date\\Date\\Date.h",
+              "RelativeDocumentMoniker": "Date\\Date.h",
+              "ToolTip": "D:\\vs_2022\\Cpp_code\\Date\\Date\\Date.h",
+              "RelativeToolTip": "Date\\Date.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-22T10:16:30.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 41,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

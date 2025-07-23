@@ -1,4 +1,4 @@
-//#define _CRT_SECURE_NO_WARNINGS 1
+#define _CRT_SECURE_NO_WARNINGS 1
 //
 //#include <stdio.h>
 //#include <stdlib.h>
@@ -110,3 +110,63 @@
 //
 //    return 0;
 //}
+
+#include <iostream>
+using namespace std;
+
+class Date
+{
+public:
+	//构造函数
+	Date(int year = 1, int mouth = 1, int day = 1,const char* time = "00:00")
+	{
+		_year = year;
+		_mouth = mouth;
+		_day = day;
+		_time = (char*)malloc(sizeof(char) * 6);
+		memcpy(_time, time, 6);
+	}
+
+	//拷贝构造函数
+	Date(const Date& d)
+	{
+		_year = d._year;
+		_mouth = d._mouth;
+		_day = d._day;
+		_time = (char*)malloc(sizeof(char) * 6);
+		memcpy(_time, d._time, 6);
+	}
+
+	//析构函数
+	~Date()
+	{
+		free(_time);
+		_time = nullptr;
+		_year = 0;
+		_mouth = 0;
+		_day = 0;
+		cout << "日期类已销毁" << endl;
+	}
+
+	void Print()
+	{
+		cout << _year << "年" << _mouth << "月" << _day << "日 北京时间" << _time << endl;
+	}
+private:
+	int _year;
+	int _mouth;
+	int _day;
+	char* _time;
+};
+int main()
+{
+	Date d1;
+	Date d2(2025, 7, 17, "19:06");
+	Date d3 = d2;
+
+	d1.Print();
+	d2.Print();
+	d3.Print();
+	return 0;
+}
+

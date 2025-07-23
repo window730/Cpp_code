@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\vs_2022\\C-\\test._cpp\\",
+  "WorkspaceRootPath": "D:\\vs_2022\\Cpp_code\\test._cpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F00F0845-8405-49D3-8502-39485C7E63E3}|test._cpp\\test._cpp.vcxproj|D:\\vs_2022\\C-\\test._cpp\\test._cpp\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F00F0845-8405-49D3-8502-39485C7E63E3}|test._cpp\\test._cpp.vcxproj|D:\\vs_2022\\Cpp_code\\test._cpp\\test._cpp\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F00F0845-8405-49D3-8502-39485C7E63E3}|test._cpp\\test._cpp.vcxproj|solutionrelative:test._cpp\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,29 +14,29 @@
       "DocumentGroups": [
         {
           "DockedHeight": 931,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.cpp",
-              "DocumentMoniker": "D:\\vs_2022\\C-\\test._cpp\\test._cpp\\test.cpp",
+              "DocumentMoniker": "D:\\vs_2022\\Cpp_code\\test._cpp\\test._cpp\\test.cpp",
               "RelativeDocumentMoniker": "test._cpp\\test.cpp",
-              "ToolTip": "D:\\vs_2022\\C-\\test._cpp\\test._cpp\\test.cpp",
+              "ToolTip": "D:\\vs_2022\\Cpp_code\\test._cpp\\test._cpp\\test.cpp",
               "RelativeToolTip": "test._cpp\\test.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAKoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-02T13:23:10.861Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         },
         {
-          "DockedHeight": 141,
+          "DockedHeight": 41,
           "SelectedChildIndex": -1,
           "Children": [
             {
